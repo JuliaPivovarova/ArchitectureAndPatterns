@@ -1,0 +1,6 @@
+M:\Rider Projects\Patterns\Patt\bin\Debug\Patt.exe
+M:\Rider Projects\Patterns\Patt\bin\Debug\Patt.pdb
+M:\Rider Projects\Patterns\Patt\obj\Debug\Patt.csprojAssemblyReference.cache
+M:\Rider Projects\Patterns\Patt\obj\Debug\Patt.csproj.CoreCompileInputs.cache
+M:\Rider Projects\Patterns\Patt\obj\Debug\Patt.exe
+M:\Rider Projects\Patterns\Patt\obj\Debug\Patt.pdb
